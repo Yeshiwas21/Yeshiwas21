@@ -23,4 +23,3 @@ I'm a software engineering post graduate student. I want to become a good softwa
 - Playing games
 - Watching Science fiction movies
 - Practicing coding challenges
-- 
