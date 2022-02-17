@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 i'm Yeshiwas Dagnaw
 
 <!--
 **Yeshiwas21/Yeshiwas21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me
+My Name is Yeshiwas Dagnaw from Ethiopia, Addis Ababa.
+I'm a software engineering post graduate student. I want to become a good software enginner and software developer.
+
+### My Hobbies
+- reading books
+- playing games
+- watching movie
+- practicing coding
+- 
