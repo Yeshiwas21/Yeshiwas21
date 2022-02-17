@@ -19,8 +19,8 @@ My Name is Yeshiwas Dagnaw from Ethiopia, Addis Ababa.
 I'm a software engineering post graduate student. I want to become a good software enginner and software developer.
 
 ### My Hobbies
-- reading books
-- playing games
-- watching movie
-- practicing coding
+- Reading spritual books
+- Playing games
+- Watching Science fiction movies
+- Practicing coding challenges
 - 
