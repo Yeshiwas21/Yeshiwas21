@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About Me
 My Name is Yeshiwas Dagnaw from Addis Ababa, Ethiopia .
-I'm a software engineering post graduate student. I want to become a good software engineer and software developer.
+I'm graduated in software engineering.
 
 ### My Hobbies
 - Reading spritual books
