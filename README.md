@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me
-My Name is Yeshiwas Dagnaw from Addis Ababa, Ethiopia .
-I'm graduated in software engineering.
+My name is Yeshiwas Dagnaw.
+I'm a Software Engineer and Software Developer, graduated in Software Engineering.
 
-### My Hobbies
-- Reading spritual books
-- Playing games
-- Watching Science fiction movies
-- Practicing coding challenges
+#### My Skills
+Programming Languages: Python, JavaScript, HTML, CSS, and more.
+Frameworks: Django, Frappe, and others.
+Machine Learning & Deep Learning: Experienced in AI, ML models, and frameworks.
