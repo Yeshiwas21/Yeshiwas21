@@ -19,6 +19,10 @@ My name is Yeshiwas Dagnaw.
 I'm a Software Engineer and Software Developer, graduated in Software Engineering.
 
 #### My Skills
-Programming Languages: Python, JavaScript, HTML, CSS, and more.
-Frameworks: Django, Frappe, and others.
-Machine Learning & Deep Learning: Experienced in AI, ML models, and frameworks.
+<ul>
+  <li><b>Programming Languages:</b> Python, JavaScript, HTML, CSS, and more. </li>
+  <li><b>Frameworks:</b> Django, Frappe, and others. </li>
+  <li><b>Machine Learning & Deep Learning:</b> Experienced in AI, ML models, and frameworks.</li>
+
+</ul>
+
